@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\structOrnek2\structOrnek2\bin\Debug\structOrnek2.exe.config
+C:\Users\SILA\source\repos\structOrnek2\structOrnek2\bin\Debug\structOrnek2.exe
+C:\Users\SILA\source\repos\structOrnek2\structOrnek2\bin\Debug\structOrnek2.pdb
+C:\Users\SILA\source\repos\structOrnek2\structOrnek2\obj\Debug\structOrnek2.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\structOrnek2\structOrnek2\obj\Debug\structOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\structOrnek2\structOrnek2\obj\Debug\structOrnek2.exe
+C:\Users\SILA\source\repos\structOrnek2\structOrnek2\obj\Debug\structOrnek2.pdb

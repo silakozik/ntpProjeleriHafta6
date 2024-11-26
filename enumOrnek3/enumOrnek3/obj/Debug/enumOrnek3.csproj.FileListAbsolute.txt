@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\enumOrnek3\enumOrnek3\bin\Debug\enumOrnek3.exe.config
+C:\Users\SILA\source\repos\enumOrnek3\enumOrnek3\bin\Debug\enumOrnek3.exe
+C:\Users\SILA\source\repos\enumOrnek3\enumOrnek3\bin\Debug\enumOrnek3.pdb
+C:\Users\SILA\source\repos\enumOrnek3\enumOrnek3\obj\Debug\enumOrnek3.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\enumOrnek3\enumOrnek3\obj\Debug\enumOrnek3.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\enumOrnek3\enumOrnek3\obj\Debug\enumOrnek3.exe
+C:\Users\SILA\source\repos\enumOrnek3\enumOrnek3\obj\Debug\enumOrnek3.pdb

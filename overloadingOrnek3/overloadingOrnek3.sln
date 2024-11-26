@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35319.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloadingOrnek3", "overloadingOrnek3\overloadingOrnek3.csproj", "{651E7749-D026-4E23-AF06-DDB9A953F73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651E7749-D026-4E23-AF06-DDB9A953F73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651E7749-D026-4E23-AF06-DDB9A953F73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651E7749-D026-4E23-AF06-DDB9A953F73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651E7749-D026-4E23-AF06-DDB9A953F73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E74789-4214-4CCD-B148-64849B1F1424}
+	EndGlobalSection
+EndGlobal

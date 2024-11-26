@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\tekCiftBoyutluOrnek1\tekCiftBoyutluOrnek1\bin\Debug\tekCiftBoyutluOrnek1.exe.config
+C:\Users\SILA\source\repos\tekCiftBoyutluOrnek1\tekCiftBoyutluOrnek1\bin\Debug\tekCiftBoyutluOrnek1.exe
+C:\Users\SILA\source\repos\tekCiftBoyutluOrnek1\tekCiftBoyutluOrnek1\bin\Debug\tekCiftBoyutluOrnek1.pdb
+C:\Users\SILA\source\repos\tekCiftBoyutluOrnek1\tekCiftBoyutluOrnek1\obj\Debug\tekCiftBoyutluOrnek1.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\tekCiftBoyutluOrnek1\tekCiftBoyutluOrnek1\obj\Debug\tekCiftBoyutluOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\tekCiftBoyutluOrnek1\tekCiftBoyutluOrnek1\obj\Debug\tekCiftBoyutluOrnek1.exe
+C:\Users\SILA\source\repos\tekCiftBoyutluOrnek1\tekCiftBoyutluOrnek1\obj\Debug\tekCiftBoyutluOrnek1.pdb

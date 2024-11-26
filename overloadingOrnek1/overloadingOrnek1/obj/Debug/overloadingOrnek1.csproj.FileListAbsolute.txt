@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\overloadingOrnek1\overloadingOrnek1\bin\Debug\overloadingOrnek1.exe.config
+C:\Users\SILA\source\repos\overloadingOrnek1\overloadingOrnek1\bin\Debug\overloadingOrnek1.exe
+C:\Users\SILA\source\repos\overloadingOrnek1\overloadingOrnek1\bin\Debug\overloadingOrnek1.pdb
+C:\Users\SILA\source\repos\overloadingOrnek1\overloadingOrnek1\obj\Debug\overloadingOrnek1.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\overloadingOrnek1\overloadingOrnek1\obj\Debug\overloadingOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\overloadingOrnek1\overloadingOrnek1\obj\Debug\overloadingOrnek1.exe
+C:\Users\SILA\source\repos\overloadingOrnek1\overloadingOrnek1\obj\Debug\overloadingOrnek1.pdb
